@@ -1,0 +1,24 @@
+{
+  "name": "zalowcb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "keywords": [
+    "zalo bot",
+    "zalo",
+    "bot"
+  ],
+  "author": "Shibaa",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "zca-js": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0"
+  }
+}
